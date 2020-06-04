@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+
+<dict>
+	<key>name</key>
+	<string>textVar</string>
+	<key>type</key>
+	<string>edit</string>
+	<key>label</key>
+	<string>Text</string>
+	<key>default</key>
+	<string>something</string>
+</dict>
+
+<dict>
+	<key>name</key>
+	<string>fontSize</string>
+	<key>type</key>
+	<string>edit</string>
+	<key>label</key>
+	<string>Font Size (px)</string>
+	<key>default</key>
+	<string>32</string>
+</dict>
+
+</array>
+</plist>

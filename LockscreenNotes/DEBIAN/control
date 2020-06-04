@@ -1,0 +1,9 @@
+Package: com.gystre.lockscreennotes
+Name: Lockscreen Notes
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Widget for xenhtml that allows you to place custom text on the homescreen or lockscreen
+Author: Kyle Yu
+Maintainer: Kyle Yu
+Section: Xen HTML
+Depends:
